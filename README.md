@@ -71,7 +71,8 @@ Clean code, performance, responsive design, and turning ideas into real products
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/M9ZZvQbQY9) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tafsir.chowdhury.973567) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/tafsirchy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chy_tafsir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tafsirchy1000@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/M9ZZvQbQY9) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tafsir.chowdhury.973567) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafsirchy)
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chy_tafsir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tafsirchy1000@gmail.com) 
 
 
 # 📊 GitHub Stats:
