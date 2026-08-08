@@ -1,92 +1,94 @@
 ![Banner](./banner.svg)
 
-<h1 align="center">Tafsir Chy</h1>
-<h3 align="center">Full-Stack Developer · MERN & Next.js | CSE Undergraduate</h3>
+<h1 align="center">Hi 👋, I'm Tafsir Chy</h1>
+<h3 align="center">MERN Stack Web Developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tafsirchy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tafsirchy1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/chy_tafsir"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://discord.gg/M9ZZvQbQY9"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-</p>
+
+
+<div align="center">
+
+## 👋 About Me
+
+Hi, I'm a passionate **MERN Stack Web Developer** who loves building modern, scalable, and user-friendly web applications.  
+I work with **MongoDB, Express.js, React, Node.js**, and frequently **Tailwind CSS** to create full-stack solutions — from beautiful UIs to well-structured APIs.  
+
+Clean code, performance, responsive design, and turning ideas into real products are what keep me excited every day.  
+
+🚀 **Let's build something awesome together!** 🚀
+
+</div>
+
+
+
+### 🚀 Current Activities
+
+- 🔭 Currently working on **Web Development projects**
+- 🌱 Learning **Next.js** with a focus on **Server-Side Rendering (SSR)**
+- 🔍 Improving backend performance using **Node.js & MongoDB**
+- 📚 Strengthening my knowledge of **Data Structures & Algorithms** for long-term career growth
+- 👯 Open to collaborating on **Web Development & MERN Stack projects**
+- 🤔 Seeking opportunities to learn and improve through real-world development
+- 💬 Ask me about **Web Development, MERN Stack, or JavaScript**
+- 📫 Reach me at: **tafsirchy1000@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I love writing clean and optimized code 💻
+
+
+
+
+## 💻 Tech Stack (MERN Stack Web Developer)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🧠 Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### ⚡ Frameworks & Platforms
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🧩 Programming Fundamentals
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/M9ZZvQbQY9) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tafsir.chowdhury.973567) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafsirchy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chy_tafsir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tafsirchy1000@gmail.com)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tafsirchy&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tafsirchy&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tafsirchy&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tafsirchy&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tafsirchy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Tafsirchy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### About Me
-
-I'm a full-stack developer specializing in the **MERN stack** and **Next.js**, with experience building production web applications — from e-commerce platforms to job portals — for freelance clients and through my own development agency, **[BOONEC](https://boonec.com)**.
-
-I focus on writing clean, maintainable code, designing well-structured APIs, and shipping responsive, performant interfaces. Alongside professional development work, I'm pursuing a **B.Sc. in Computer Science & Engineering**, where my current research focuses on **Legal Case Retrieval systems using NLP**.
-
-- 🏢 Building and maintaining projects through **BOONEC** — my web development agency
-- 🔭 Currently developing a **job portal** and an **e-commerce platform** (Smart24) using MERN/Next.js
-- 🎓 Researching **Legal Case Retrieval (LCR)** for Bangladesh Supreme Court judgments as part of my thesis
-- 🌱 Deepening my expertise in **Next.js (SSR/ISR)**, system design, and backend performance
-- 🤝 Open to freelance, contract, and collaborative opportunities in web development
-- 📫 Reach me at **tafsirchy1000@gmail.com**
-
----
-
-### Tech Stack
-
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-</p>
-
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Backend & Databases**
-<p>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-**Platforms & DevOps**
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-**Design**
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tafsirchy&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tafsirchy&layout=compact&theme=onedark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tafsirchy&theme=onedark&hide_border=true" />
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Tafsirchy&icon=0&color=0" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
